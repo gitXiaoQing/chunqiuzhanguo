@@ -1,0 +1,67 @@
+a {
+    text-decoration: none;
+}
+
+.hotsite-wenzi-ani {
+    position: relative;
+    height: 60px;
+    font-size: 28px;
+}
+
+.hotsite-wenzi-ani .font {
+    position: absolute;
+    width: 50%;
+    overflow: hidden;
+}
+
+.red-white-font {
+    color: #fff;
+    background-color: red;
+}
+
+.white-red-font {
+    color: red;
+    background-color: #fff;
+}
+
+.red-white-font1 {
+    left: 0;
+    top: 0;
+}
+
+.red-white-font2 {
+    left: 50%;
+    top: 0;
+}
+
+.white-red-font3 {
+    left: 0;
+    top: 50%;
+}
+
+.white-red-font4 {
+    left: 50%;
+    top: 50%;
+}
+
+.white-red-font1 {
+    left: 0;
+    top: 0;
+}
+
+.white-red-font2 {
+    left: 50%;
+    top: 0;
+}
+
+.red-white-font3 {
+    width: 0;
+    left: 50%;
+    top: 50%;
+}
+
+.red-white-font4 {
+    height: 0;
+    left: 50%;
+    top: 50%;
+}
